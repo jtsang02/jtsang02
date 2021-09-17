@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jtsang02
 - 👀 I’m interested in software and mechatronics 
-- 🌱 I’m currently learning Integrated Engineering at UBC
+- 🌱 I’m currently studying Integrated Engineering at UBC
 - 📫 How to reach me ... linkedIn!
 
 <!---
