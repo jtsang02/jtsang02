@@ -1,7 +1,7 @@
 Hi 👋 My name is Josiah
 =======================
 
-UBC Integrated Engineering - Software and Electrical
+UBC Integrated Engineering - Software
 ----------------------------------
 
 I am a highly motivated and reliable developer with a demonstrated a history of problem solving and creating innovative solutions.
