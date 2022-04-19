@@ -8,7 +8,7 @@ I am a highly motivated and reliable developer with a demonstrated a history of 
 
 *   🌍  I'm based in Vancouver, BC
 *   ✉️  You can contact me at [jtsang02@student.ubc.ca](mailto:jtsang02@student.ubc.ca)
-*   🚀  I'm currently working at [AirOps Consulting](http://https://www.airopsconsulting.org/)
+*   🚀  I'm currently working at [AirOps Consulting](https://www.airopsconsulting.org/)
 *   🧠  I'm learning React, Django and MongoDB
 *   🤝  I'm open to collaborating on Web and Android projects!
 *   ⚡  I graduated Civil Engineering and worked for 5 years as a 🔥 protection engineer 
