@@ -1,7 +1,7 @@
 Hi 👋 My name is Josiah
 =======================
 
-UBC Integrated Engineer - Software
+UBC Integrated Engineering - Software and Electrical
 ----------------------------------
 
 I am a highly motivated and reliable developer with a demonstrated a history of problem solving and creating innovative solutions.
@@ -39,7 +39,6 @@ I am a highly motivated and reliable developer with a demonstrated a history of 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/jtsang02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/josiah.tsang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/josiah-tsang-jt02/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
