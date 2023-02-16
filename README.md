@@ -6,7 +6,7 @@ Hi 👋 My name is Josiah
 I am a highly motivated and reliable developer with a demonstrated a history of problem solving and creating innovative solutions.
 
 *   🌍  I'm based in Vancouver, BC
-*   📚  I'm in my 3rd year of Integrated Engineering at UBC specializing in computer engineering
+*   📚  I'm in my 4th year of Integrated Engineering at UBC specializing in computer and mechanical engineering
 *   ✉️  You can contact me at [jtsang02@student.ubc.ca](mailto:jtsang02@student.ubc.ca)
 *   🧠  I'm learning fullstack development using React, Flask, and SqLite
 *   🤝  I'm open to collaborating on Web and Android projects!
