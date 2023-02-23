@@ -8,7 +8,7 @@ I am a highly motivated and reliable developer with a demonstrated a history of 
 *   🌍  I'm based in Vancouver, BC
 *   📚  I'm in my 4th year of Integrated Engineering at UBC specializing in computer and mechanical engineering
 *   ✉️  You can contact me at [jtsang02@student.ubc.ca](mailto:jtsang02@student.ubc.ca)
-*   🧠  I'm learning fullstack development using React, Flask, and SqLite
+*   🧠  I'm learning fullstack development using the Mongodb, Express, React, and Node (MERN) stack
 *   🤝  I'm open to collaborating on Web and Android projects!
 *   ⚡  I graduated Civil Engineering and worked for 5 years as a 🔥 protection engineer 
 
@@ -33,16 +33,15 @@ I am a highly motivated and reliable developer with a demonstrated a history of 
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jtsang02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/josiah.tsang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/josiah-tsang-jt02/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-<b>My GitHub Stats</b>
+<p align="left"> <a href="https://www.github.com/jtsang02" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/josiah.tsang" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/josiah-tsang-jt02/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/jdmjo#6193" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a></p>
+  
 
 <a href="http://www.github.com/jtsang02"><img src="https://github-readme-stats.vercel.app/api?username=jtsang02&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="jtsang02's GitHub stats" /></a>
 
 <a href="http://www.github.com/jtsang02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jtsang02&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/jtsang02"><img src="https://activity-graph.herokuapp.com/graph?username=jtsang02&bg_color=0f172a&color=ffffff&line=14b8a6&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
+<a href="http://www.github.com/jtsang02"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=jtsang02&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <b>Top Repositories</b>
 
