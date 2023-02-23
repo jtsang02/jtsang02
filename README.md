@@ -56,6 +56,6 @@ I am a highly motivated and reliable developer with a demonstrated a history of 
 
 <a href="https://github.com/jtsang02/spatial-calc-js" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=spatial-calc-js&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="[https://github.com/jtsang02/react-mult-table](https://github.com/jtsang02/DSA-in-Python-Jovian)" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=DSA-in-Python-Jovian&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" />
+<div width="100%" align="center"><a href="https://github.com/jtsang02/DSA-in-Python-Jovian" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=DSA-in-Python-Jovian&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" />
 
 <a href="https://github.com/jtsang02/web-chat-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jtsang02&repo=web-chat-app&title_color=6366f1&text_color=ffffff&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
