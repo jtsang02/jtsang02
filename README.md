@@ -8,7 +8,7 @@ I am a highly motivated and reliable developer with a demonstrated a history of 
 *   🌍  I'm based in Vancouver, BC
 *   📚  I'm in my 4th year of Integrated Engineering at UBC (Computer and Mechanical)
 *   🧠  I'm learning fullstack development using the Mongodb, Express, React, and Node (MERN) stack
-*   🚀  I'm currently working on [MUSE-Pet](http://github.com/UBCMint/MUSE-Pet) with UBC MINT
+*   🚀  I'm currently working on [MUSE-Pet](http://github.com/UBCMint) with UBC MINT
 *   🤝  I'm open to collaborating on web and mobile projects!
 *   ✉️  You can contact me at [jtsang02@student.ubc.ca](mailto:jtsang02@student.ubc.ca)
 *   ⚡  I graduated Civil Engineering from BCIT and worked for 5 years as a fire protection engineer
