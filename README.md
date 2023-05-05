@@ -13,6 +13,8 @@ I am a highly motivated and reliable developer with a demonstrated a history of 
 *   ✉️  You can contact me at [jtsang02@student.ubc.ca](mailto:jtsang02@student.ubc.ca)
 *   ⚡  I graduated Civil Engineering from BCIT and worked for 5 years as a fire protection engineer
 
+Visit my portfolio at https://josiahtsang.netlify.app/
+
 
 ### Skills
 
