@@ -6,7 +6,7 @@ Hi 👋 My name is Josiah
 I am a highly motivated and reliable developer with a demonstrated a history of problem solving and creating innovative solutions.
 
 *   🌍  I'm based in Vancouver, BC
-*   📚  I'm in my 4th year of Integrated Engineering at UBC (Computer and Mechanical)
+*   📚  I'm in my 4th year of Integrated Engineering at UBC
 *   🧠  I'm learning fullstack development using the Mongodb, Express, React, and Node (MERN) stack
 *   💼  I'm currently a software developer on [UBC MINT](http://github.com/UBCMint)
 *   🤝  I'm open to collaborating on web and mobile projects!
