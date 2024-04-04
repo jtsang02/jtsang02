@@ -8,7 +8,7 @@ I am a highly motivated and reliable developer with a demonstrated a history of 
 *   🌍  I'm based in Vancouver, BC
 *   📚  I'm in my 4th year of Integrated Engineering at UBC
 *   🧠  I'm learning fullstack development using the Mongodb, Express, React, and Node (MERN) stack
-*   💼  I'm currently a software developer on [UBC MINT](http://github.com/UBCMint)
+*   💼  I will be interning at Amazon for the summer of 2024!
 *   🤝  I'm open to collaborating on web and mobile projects
 *   ✉️  You can contact me at [jtsang02@student.ubc.ca](mailto:jtsang02@student.ubc.ca)
 
